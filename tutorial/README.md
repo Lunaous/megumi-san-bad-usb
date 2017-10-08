@@ -13,4 +13,8 @@ Pada tahap persiapan ini adalah langkah awal dan wajib dilakukan.
 
 # Instalasi Payload
 
-- Project Megumi-San Bad USB : Install Notepad Hijacked Text : https://youtu.be/COnwwWUW7uc
+- Install Notepad Hijacked Text 
+
+> Video : https://youtu.be/COnwwWUW7uc
+
+> Blogpost : http://blog.garudasecurityhacker.org/2017/10/megumi-san-bad-usb-install-payload.html
