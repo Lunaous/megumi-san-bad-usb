@@ -3,17 +3,19 @@ Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisa
 
 # Hardware yang mendukung project ini
 
-- ATtiny85
+- ATtiny85 Mirco USB
 
 ![SS](http://store.zenix.lk/411-large_default/digispark-attiny85-development-board.jpg)
 
-- Digispark
+- Digispark USB
 
 ![SS](https://i.ebayimg.com/images/g/GdoAAOSwiLdV~BaV/s-l300.jpg)
 
 # Tools-Tools Pendukung Pengembangan Project
 
-- Driver untuk Windows,Linux,dan Mac OS ![https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/Driver%20for%20ATiny85%20And%20Digispark](klik disini)
+- Driver untuk Windows,Linux,dan Mac OS ![klik disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/Driver%20for%20ATiny85%20And%20Digispark)
+
+- Ducky Script to Bad USB Script Converter ![Klik disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/Ducky%20Script%20to%20Bad%20USB%20Script%20Converter)
 
 # Payload
 ----------
