@@ -22,7 +22,7 @@ Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisa
 
 # Windows Platform
 
-- ![Notepad Hijacked Text](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/payload/windows/notepad-hijacked-text.ino) And ![Video Preview Here](https://www.youtube.com/watch?v=Y5w9HcuwS0U&feature=youtu.be)
+- ![Notepad Hijacked Text](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/payload/windows/notepad-hijacked-text.ino) And Video Preview Here : https://www.youtube.com/watch?v=Y5w9HcuwS0U&feature=youtu.be
 
 # Linux Platform
 
