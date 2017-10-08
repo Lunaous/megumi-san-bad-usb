@@ -1,4 +1,7 @@
-# megumi-san-bad-usb
+![gambar](https://1.bp.blogspot.com/-4Sl0_n26qyI/Wdok7hscZlI/AAAAAAAABwE/3Arop6qfnFIpATdQOAj28ZAalE5mBL2uQCLcBGAs/s640/Saekano_07_cover_nt0.jpg)
+
+# Megumi San Bad USB Project
+
 Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisan bad usb ini adalah project yang difokuskan untuk hardware hacking di Garuda Security Hacker dan tentu saja turut serta dalam pengembangan payload-payload nya yang akan dirilis setelah dilakukan pengujian terlebih dahulu.
 
 Dan Hardware nya bisa di program ulang kapanpun dan sangat bisa untuk gonta-ganti payload sesuai dengan kebutuhan.
@@ -33,6 +36,22 @@ Informasi Kumpulan Tutorial dan Panduan Instalasi : ![Klik Disini](https://githu
 
 # Greetz
 
-My Lovely Wife, Family, Garuda Security Hacker , Ethic Ninja, Hak5 Darren Kitchen, Digistump,TECHJUVI, hecakeisgit/Dckuino.js, And you too
+- My Lovely Wife
+
+- Family
+
+- Garuda Security Hacker
+
+- Ethic Ninja
+
+- Hak5 Darren Kitchen
+
+- Digistump
+
+- TECHJUVI
+
+- hecakeisgit/Dckuino.js
+
+- And you too
 
 http://project.garudasecurityhacker.org
