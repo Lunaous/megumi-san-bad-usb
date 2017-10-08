@@ -9,6 +9,7 @@ void setup()
   //Buka program notepad
   en.winRUN("notepad");
   //Tulis Hello world!
+  en.echo(",,,,,,,,,,,,,,,,,,,");
   en.echo("YOU HAVE BEEN HIJACKED BY YUKINOSHITA 47 :p");
   en.done();
 }
