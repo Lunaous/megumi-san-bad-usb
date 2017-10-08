@@ -1,6 +1,8 @@
 # megumi-san-bad-usb
 Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisan bad usb ini adalah project yang difokuskan untuk hardware hacking di Garuda Security Hacker dan tentu saja turut serta dalam pengembangan payload-payload nya yang akan dirilis setelah dilakukan pengujian terlebih dahulu.
 
+Dan Hardware nya bisa di program ulang kapanpun dan sangat bisa untuk gonta-ganti payload sesuai dengan kebutuhan.
+
 # Hardware yang mendukung project ini
 
 - ATtiny85 Mirco USB
@@ -13,26 +15,21 @@ Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisa
 
 # Tools-Tools Pendukung Pengembangan Project
 
+- Arduino : http://arduino.cc/
+
 - Driver untuk Windows,Linux,dan Mac OS ![klik disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/Driver%20for%20ATiny85%20And%20Digispark)
 
 - Ducky Script to Bad USB Script Converter ![Klik disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/Ducky%20Script%20to%20Bad%20USB%20Script%20Converter)
 
+- Arduino Bad USB Libraries ![Klik Disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/libraries.zip)
+
 # Payload
-----------
 
-# Windows Platform
-
-- ![Notepad Hijacked Text](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/payload/windows/notepad-hijacked-text.ino) And Video Preview Here : https://youtu.be/Y5w9HcuwS0U
-
-# Linux Platform
-
-- ![Information Gathering Ubuntu](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/payload/linux/information%20gathering%20ubuntu.ino)
+Kumpulan Payload Siap Pakai : ![Klik Disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/payload)
 
 # Tutorial
 
-Tahap Persiapan
-
-- Install Driver Ating 85 Digispark dan Board Digistump AVR Arduino : https://youtu.be/OU3IVE54sl4
+Informasi Kumpulan Tutorial dan Panduan Instalasi : ![Klik Disini](https://github.com/Yukinoshita47/megumi-san-bad-usb/tree/master/tutorial)
 
 # Greetz
 
