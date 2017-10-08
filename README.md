@@ -22,7 +22,7 @@ Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisa
 
 # Windows Platform
 
-- ![Notepad Hijacked Text](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/payload/windows/notepad-hijacked-text.ino) And Video Preview Here : https://www.youtube.com/watch?v=Y5w9HcuwS0U&feature=youtu.be
+- ![Notepad Hijacked Text](https://github.com/Yukinoshita47/megumi-san-bad-usb/blob/master/payload/windows/notepad-hijacked-text.ino) And Video Preview Here : https://youtu.be/Y5w9HcuwS0U
 
 # Linux Platform
 
@@ -30,7 +30,9 @@ Sebuah Project BAD USB Atau Yang Lebih dikenal dengan USB Rubber Ducky. megumisa
 
 # Tutorial
 
-Coming Soon
+Tahap Persiapan
+
+- Install Driver Ating 85 Digispark dan Board Digistump AVR Arduino : https://youtu.be/OU3IVE54sl4
 
 # Greetz
 
